@@ -10,42 +10,42 @@ Logo shape is a loose copy of the official iztech logo.
 Logo colors itself according to the direction-color association of Turuk (Turk) culture [1] [2]. Except for the cultural color swatch, color swatches are classified based on the uniform brightness of colors.
 
 ### logo color swatch
-#### cultural
+#### cultural [3]
 * east: #40E0D0
 * west: #E0D8D0
 * north: #200820
 * south: #E84020
 * center: #FFD800
 
-#### brightest
+#### brightest [4]
 * east: #43E5D5
 * west: #E5DDD5
 * north: #E539E5
 * south: #E54120
 * center: #E5C300
 
-#### brighter
+#### brighter [5]
 * east: #34B3A6
 * west: #B3ACA6
 * north: #B22DB3
 * south: #B33319
 * center: #B39800
 
-#### normal
+#### normal [6]
 * east: #258076
 * west: #807B77
 * north: #802080
 * south: #802412
 * center: #806C00
 
-#### darker
+#### darker [7]
 * east: #164D47
 * west: #4D4A47
 * north: #4C134D
 * south: #4D160B
 * center: #4D4100
 
-#### darkest
+#### darkest [8]
 * east: #071A18
 * west: #1A1918
 * north: #1A061A
@@ -55,3 +55,9 @@ Logo colors itself according to the direction-color association of Turuk (Turk) 
 [0]: http://www.iyte.edu.tr/AltSayfa.aspx?m=23015
 [1]: https://bigthink.com/strange-maps/it-works-for-the-turks-a-colour-for-each-direction
 [2]: https://www.dzkk.tsk.tr/pages/denizwiki/konular.php?catid=9&dil=1&wiki=1
+[3]: https://color.adobe.com/iztechlogocultural-color-theme-11339501/
+[4]: https://color.adobe.com/iztechlogobrightest-color-theme-11339509/
+[5]: https://color.adobe.com/iztechlogobrighter-color-theme-11339507/
+[6]: https://color.adobe.com/iztechlogonormal-color-theme-11339505/
+[7]: https://color.adobe.com/iztechlogodarker-color-theme-11339503/
+[8]: https://color.adobe.com/iztechlogodarkest-color-theme-11339502/
